@@ -20,7 +20,7 @@ WanderCamp is a full-stack website that offers a unique platform for travelers t
 
 9) Secure: WanderCamp employs robust security measures to ensure that your data is safe and protected.
 
-10 )Constantly evolving: WanderCamp is always improving and evolving to provide the best possible experience for its users. With regular updates and new features, there's always something new to explore.
+10) Constantly evolving: WanderCamp is always improving and evolving to provide the best possible experience for its users. With regular updates and new features, there's always something new to explore.
 
 
 Screenshots : 
