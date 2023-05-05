@@ -25,15 +25,62 @@ WanderCamp is a full-stack website that offers a unique platform for travelers t
 
 Screenshots : 
 
-Landing Page : ![Landing Page](https://user-images.githubusercontent.com/52581482/236548029-98cfdb43-ce17-4286-914e-bc59526cb78c.png)
+Landing Page : 
 
-Register : ![Register](https://user-images.githubusercontent.com/52581482/236548353-1c5bb179-667b-4da4-ac8c-ec6171e008b8.png)
+![Landing Page](https://user-images.githubusercontent.com/52581482/236548029-98cfdb43-ce17-4286-914e-bc59526cb78c.png)
 
-Login Functionality: ![Login](https://user-images.githubusercontent.com/52581482/236548163-a0921aae-d98f-47af-b336-fa4fb6b2bdf0.png)
+Register : 
 
-Add New Campground : ![Add New Campground](https://user-images.githubusercontent.com/52581482/236548480-0ce0d08e-0c0b-46bb-bea4-2e527b331bd1.png)
+![Register](https://user-images.githubusercontent.com/52581482/236548353-1c5bb179-667b-4da4-ac8c-ec6171e008b8.png)
 
-Edit or Delete Campgrounds : ![Edit or Delete Campgrounds](https://user-images.githubusercontent.com/52581482/236548581-48c64d61-c93f-4cd9-9420-f4e205395007.png)
+Login Functionality: 
+
+![Login](https://user-images.githubusercontent.com/52581482/236548163-a0921aae-d98f-47af-b336-fa4fb6b2bdf0.png)
+
+Add New Campground : 
+
+![Add New Campground](https://user-images.githubusercontent.com/52581482/236548480-0ce0d08e-0c0b-46bb-bea4-2e527b331bd1.png)
+
+Edit or Delete Campgrounds : 
+
+![Edit or Delete Campgrounds](https://user-images.githubusercontent.com/52581482/236548581-48c64d61-c93f-4cd9-9420-f4e205395007.png)
+
+
+Tools and technologies used for building this web application:
+
+1) HTML5
+
+2) CSS3
+
+3) Responsive Design
+
+4) JavaScript (all 2022 modern syntax, ES6, ES2018, etc.)
+   Asynchronous JavaScript - Promises, async/await, etc.
+
+5) Bootstrap 4 and 5 (alpha)
+
+6) Bulma CSS Framework
+
+7) NodeJS
+
+8) ExpressJS
+
+9) REST
+
+10) MongoDB
+
+11) Mongoose
+
+12) Authentication From Scratch
+
+13) Cookies & Sessions
+
+14) Authorization
+
+15) Common Security Issues - SQL Injection, XSS, etc.
+
+16) Cloud Databases
+
 
 
 
