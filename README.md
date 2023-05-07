@@ -1,4 +1,10 @@
-# yelp-camp
+# yelp-camp || https://wandercamp.onrender.com 
+
+Before visiting the Website a word of caution  : 
+
+This is just a personal project with web development tech stack. Altough all basic security measures are integrated in this web application but still I will request to anyone visiting this website TO NOT TO USE THEIR personal details in anyway. 
+
+
 
 WanderCamp is a full-stack website that offers a unique platform for travelers to share their camping experiences and connect with other like-minded adventurers. With a simple and intuitive user interface, WanderCamp allows users to create, read, update, and delete their camping stories with ease. Some functionalities of WanderCamp:
 
